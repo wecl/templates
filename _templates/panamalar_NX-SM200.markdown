@@ -14,3 +14,8 @@ If the first template doesn't work try this alternative:
 {"NAME":"NX-SM200","GPIO":[0,56,0,17,134,132,0,0,131,30,21,0,0],"FLAG":0,"BASE":55}
 ```
 > The other template for this plug didn't work for me. This one is based on the Gosound SP1 v23 (55) template, I added the blue LED as relay2
+
+For me this template works:
+```
+{"NAME":"NX-SM200","GPIO":[17,0,0,0,134,132,0,0,0,52,21,130,0],"FLAG":0,"BASE":45}
+```
